@@ -79,3 +79,4 @@ jobs:
           path: artifacts/telepro-debug.apk
           if-no-files-found: error
           retention-days: 30
+          
